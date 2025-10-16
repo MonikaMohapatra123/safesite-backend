@@ -1,0 +1,1351 @@
+{
+  "0": {
+    "page": "navbar",
+    "logo": "/axiomos-logo.png",
+    "company": "Safesite",
+    "menu": [
+      {
+        "name": "WhySafesite",
+        "link": "/why-us"
+      },
+      {
+        "name": "Features",
+        "sections": [
+          {
+            "title": "Safety Tools",
+            "links": [
+              {
+                "name": "Inspections",
+                "link": "/features/inspections",
+                "icon": "/logo.png"
+              },
+              {
+                "name": "Checklists",
+                "link": "/features/checklists",
+                "icon": "/logo.png"
+              }
+            ]
+          },
+          {
+            "title": "Reporting",
+            "links": [
+              {
+                "name": "Dashboards",
+                "link": "/features/dashboards",
+                "icon": "/logo.png"
+              },
+              {
+                "name": "Exports",
+                "link": "/features/exports",
+                "icon": "/logo.png"
+              }
+            ]
+          },
+          {
+            "title": "Collaboration",
+            "links": [
+              {
+                "name": "Team Management",
+                "link": "/features/team-management",
+                "icon": "/logo.png"
+              },
+              {
+                "name": "Permissions",
+                "link": "/features/permissions",
+                "icon": "/logo.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Templates",
+        "sections": [
+          {
+            "title": "All Templates",
+            "links": [
+              {
+                "name": "Safety Checklist",
+                "link": "/templates/safety-checklist",
+                "icon": "/logo.png"
+              },
+              {
+                "name": "Incident Report",
+                "link": "/templates/incident-report",
+                "icon": "/logo.png"
+              },
+              {
+                "name": "Job Hazard Analysis",
+                "link": "/templates/job-hazard-analysis",
+                "icon": "/logo.png"
+              },
+              {
+                "name": "Emergency Plan",
+                "link": "/templates/emergency-plan",
+                "icon": "/logo.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Industries",
+        "sections": [
+          {
+            "title": "Industries",
+            "links": [
+              {
+                "name": "Construction",
+                "link": "/industries/construction"
+              },
+              {
+                "name": "Energy",
+                "link": "/industries/energy"
+              },
+              {
+                "name": "Manufacturing",
+                "link": "/industries/manufacturing"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Resources",
+        "sections": [
+          {
+            "title": "Resources",
+            "links": [
+              {
+                "name": "Blog",
+                "link": "/resources/blog"
+              },
+              {
+                "name": "Case Studies",
+                "link": "/resources/case-studies"
+              },
+              {
+                "name": "Pricing",
+                "link": "/resources/pricing"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Contact Us",
+        "link": "/contact-us"
+      }
+    ],
+    "actions": [
+      {
+        "name": "Login",
+        "link": "/login"
+      },
+      {
+        "name": "Get Started Free",
+        "type": "button",
+        "link": "/get-started"
+      }
+    ]
+  },
+  "1": {
+  "page": "home",
+  "id": "1",
+  "HeroHeading": "Go <span class='hero-highlight'>Beyond</span> Safety <br /> Compliance",
+  "HeroDescription": "Start managing your best safety program ever — in just 8 minutes.",
+  "HeroButtons": [
+    {
+      "type": "primary",
+      "text": "Get Started Free"
+    },
+    {
+      "type": "secondary",
+      "text": "Watch Video"
+    }
+  ],
+  "HeroRatingText": "4.9 App Store | 4.7 Capterra",
+  "HeroVideo": "/video-1.mp4",
+  "HeroModalVideo": "/video-1.mp4"
+}
+
+  
+  ,
+  "2": {
+  "page": "CompanySafetyCard",
+  "id": "2",
+  "Title": "Company Safety Cards",
+  "cards": [
+    {
+      "id": 1,
+      "title": "Inspections & Audits",
+      "icon": "fa-solid fa-clipboard-list",
+      "imageSrc": "https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif",
+      "rightHeading": "Run your field safety inspections on any device",
+      "checklist": [
+        "Schedule and track inspections",
+        "Create safety tasks and raise hazards",
+        "Customize your own or choose from our library of compliance checklists"
+      ],
+      "buttonLabel": "Learn more"
+    },
+    {
+      "id": 2,
+      "title": "Safety Meetings",
+      "icon": "fa-solid fa-users",
+      "imageSrc": "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif",
+      "rightHeading": "Schedule and track your safety meetings and toolbox talks",
+      "checklist": [
+        "Track attendance and topics covered",
+        "Identify training needs with our powerful analytics",
+        "Choose from 100s of templates, forms, and topics"
+      ],
+      "buttonLabel": "Learn more"
+    },
+    {
+      "id": 3,
+      "title": "Incident Reporting",
+      "icon": "fa-regular fa-file-alt",
+      "imageSrc": "https://media.giphy.com/media/111ebonMs90YLu/giphy.gif",
+      "rightHeading": "Report incidents easily",
+      "checklist": [
+        "Quickly report and manage workplace incidents",
+        "Prevent future occurrences",
+        "Stay compliant with industry standards"
+      ],
+      "buttonLabel": "Learn more"
+    },
+    {
+      "id": 4,
+      "title": "Hazard Management",
+      "icon": "fa-solid fa-exclamation-triangle",
+      "imageSrc": "https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif",
+      "rightHeading": "Manage hazards effectively",
+      "checklist": [
+        "Identify, assess, and control hazards",
+        "Mitigate risks before they cause harm",
+        "Maintain a safe work environment"
+      ],
+      "buttonLabel": "Learn more"
+    }
+  ]
+},
+ 
+  "3": {
+    "1": {
+      "id": 1,
+      "image": "/safesite-1.png",
+      "quote": "In one day, Safesite uploaded my jobsite inspection and monthly equipment inspection forms.",
+      "name": "Tyler Jones",
+      "title": "DIRECTOR OF SAFETY",
+      "stats": "50%",
+      "description": "Inspection times cut",
+      "hoverImageDefault": "/Nocolor-1.png",
+      "hoverImageColor": "/withcolor-1.png"
+    },
+    "2": {
+      "id": 2,
+      "image": "/safesite-2.png",
+      "quote": "Our team works faster now.",
+      "name": "Anna Smith",
+      "title": "PROJECT MANAGER",
+      "stats": "60%",
+      "description": "Time saved",
+      "hoverImageDefault": "/Nocolor-2.png",
+      "hoverImageColor": "/withcolor-2.png"
+    },
+    "3": {
+      "id": 3,
+      "image": "/safesite-3.png",
+      "quote": "Costs have dropped significantly.",
+      "name": "Mike Brown",
+      "title": "CEO",
+      "stats": "70%",
+      "description": "Costs reduced",
+      "hoverImageDefault": "/Nocolor-3.png",
+      "hoverImageColor": "/withcolor-3.png"
+    }
+  },
+  
+  "4": {
+    "page": "SafetyTopicsCards",
+    "id": "4",
+    "sectionTitle": "Explore Safety Topics",
+    "viewAllLink": {
+      "text": "View All Topics →",
+      "url": "/all-topics"
+    },
+    "topics": [
+      {
+        "id": 1,
+        "image": "safesite-2.png",
+        "category": "DIVERSITY, EQUITY, AND INCLUSION",
+        "readTime": "7 min read",
+        "title": "A Guide to Sourcing Inclusive PPE for Diverse Teams",
+        "link": "/topic1"
+      },
+      {
+        "id": 2,
+        "image": "safesite-1.png",
+        "category": "CAREER GROWTH",
+        "readTime": "8 min read",
+        "title": "Everything You Need to Pass the ASP® Safety Certification Exam",
+        "link": "/topic2"
+      },
+      {
+        "id": 3,
+        "image": "safesite-3.png",
+        "category": "DIVERSITY, EQUITY, AND INCLUSION",
+        "readTime": "6 min read",
+        "title": "4 Free Toolbox Talks for Building Cultural Competency",
+        "link": "/topic3"
+      }
+    ]
+  },
+  
+  "5": {
+    "page": "SafetyGoals",
+    "heading": "Surpass Your Safety Goals",
+    "description": "Do more to keep your employees safe with Safesite, the most recommended safety management solution.",
+    "buttonText": "Sign Up For Free",
+    "stats": [
+      {
+        "icon": "⬆️",
+        "value": "8 hrs",
+        "text": "per week saved after using our platform"
+      },
+      {
+        "icon": "⬇️",
+        "value": "57 %",
+        "text": "Proven reduction in workplace incidents"
+      }
+    ],
+    "badges": [
+      "/badge-1.png",
+      "/badge-2.png",
+      "/badge-3.png",
+      "/badge-4.png",
+      "/badge-5.png"
+    ]
+  },
+ 
+  "6": {
+  "page": "FeaturesInspection",
+  "1": {
+    "HeroHeading": "Go <span class='hero-highlight'>Beyond</span> Safety <br /> Compliance",
+    "HeroDescription": "Start managing your best safety program ever — in just 8 minutes.",
+    "HeroButtons": [
+      { "type": "primary", "text": "Get Started Free" },
+      { "type": "secondary", "text": "🔍 View Image" }
+    ],
+    "HeroImage": "/safesite-1.png",
+    "HeroModalImage": "/inspection-modal.png"
+  },
+  "2": {
+    "Heading": "Inspection Features",
+    "Items": [
+      {
+        "title": "Run inspections everywhere",
+        "description": "Complete inspections on-the-go, even in areas with no service. Choose from templates in our library, build your own, or we’ll upload your existing forms (Premium only)."
+      },
+      {
+        "title": "Complete your inspections in half the time",
+        "description": "Complete safety audits and inspections in record time. Record observations and assign corrective actions as you go."
+      },
+      {
+        "title": "Schedule and track inspections",
+        "description": "Assign inspections to team members’ to-do lists. Track inspection completion at an org, group, project, or personnel level via our analytics dashboard."
+      }
+    ],
+    "Button": { "text": "Sign up", "type": "primary" },
+    "Video": "/video-1.mp4"
+  },
+  "3": {
+    "Heading": "Related Features",
+    "Items": [
+      { "title": "Multilingual App (En, Sp, Fr, Pt)", "icon": "FaGlobe", "link": "/multilingual-app" },
+      { "title": "Leading Indicator Analytics", "icon": "FaChartBar", "link": "/leading-indicator-analytics" },
+      { "title": "Hazard Management", "icon": "FaExclamationTriangle", "link": "/hazard-management" },
+      { "title": "Incident Reporting", "icon": "FaShieldAlt", "link": "/incident-reporting" },
+      { "title": "Safety Meetings", "icon": "FaUsers", "link": "/safety-meetings" },
+      { "title": "Safety Observations", "icon": "FaEye", "link": "/safety-observations" }
+    ]
+  }
+},
+"7": {
+  "page": "FeaturesChecklists",
+  "1": {
+    "HeroHeading": "Simplify <span class='hero-highlight'>Checklists</span> Management <br /> Effortlessly",
+    "HeroDescription": "Start creating and managing your checklists — in just a few clicks.",
+    "HeroButtons": [
+      { "type": "primary", "text": "Get Started Free" },
+      { "type": "secondary", "text": "🔍 View Image" }
+    ],
+    "HeroImage": "/safesite-2.png",
+    "HeroModalImage": "/checklists-modal.png"
+  },
+  "2": {
+    "Heading": "Checklist Features",
+    "Items": [
+      {
+        "title": "Create checklists anywhere",
+        "description": "Build and manage checklists on-the-go. Choose templates from our library or create custom ones for your team."
+      },
+      {
+        "title": "Track completion in real-time",
+        "description": "Monitor checklist progress instantly. Receive notifications when tasks are completed or overdue."
+      },
+      {
+        "title": "Collaborate with your team",
+        "description": "Assign checklist tasks to team members and track completion at project, team, or individual level."
+      }
+    ],
+    "Button": { "text": "Sign up", "type": "primary" },
+    "Video": "/video-1.mp4"
+  },
+ "3": {
+  "Heading": "Powerful Safety Checklist Features",
+  "Items": [
+    { "icon": "FaGlobe", "title": "Access Anywhere", "link": "#" },
+    { "icon": "FaChartBar", "title": "Track Performance", "link": "#" },
+    { "icon": "FaExclamationTriangle", "title": "Instant Risk Alerts", "link": "#" },
+    { "icon": "FaShieldAlt", "title": "Enterprise-Grade Security", "link": "#" },
+    { "icon": "FaUsers", "title": "Team Collaboration", "link": "#" },
+    { "icon": "FaEye", "title": "Real-Time Monitoring", "link": "#" }
+  ]
+}
+
+}
+,
+"8": {
+  "page": "Dashboard",
+  "1": {
+    "HeroHeading": "Your <span class='hero-highlight'>Dashboard</span> at a Glance",
+    "HeroDescription": "Monitor key metrics, track progress, and stay updated — all from one central hub.",
+    "HeroButtons": [
+      { "type": "primary", "text": "Go to Dashboard" },
+      { "type": "secondary", "text": "📊 View Reports" }
+    ],
+    "HeroImage": "/safesite-3.png",
+    "HeroModalImage": "/dashboard-preview.png"
+  },
+  "2": {
+    "Heading": "Dashboard Features",
+    "Items": [
+      {
+        "title": "Real-Time Analytics",
+        "description": "Track live data and performance indicators across your projects."
+      },
+      {
+        "title": "Customizable Widgets",
+        "description": "Personalize your dashboard with widgets that matter most to you."
+      },
+      {
+        "title": "Seamless Integrations",
+        "description": "Connect with tools and services you already use for smooth workflows."
+      }
+    ],
+    "Button": { "text": "Customize Now", "type": "primary" },
+    "Video": "/video-1.mp4"
+  },
+  "3": {
+    "Heading": "Powerful Dashboard Tools",
+    "Items": [
+      { "icon": "FaChartLine", "title": "Performance Insights", "link": "#" },
+      { "icon": "FaCogs", "title": "Custom Settings", "link": "#" },
+      { "icon": "FaBell", "title": "Smart Notifications", "link": "#" },
+      { "icon": "FaUsersCog", "title": "Role-Based Access", "link": "#" },
+      { "icon": "FaCloud", "title": "Cloud Sync", "link": "#" },
+      { "icon": "FaLock", "title": "Secure Access", "link": "#" }
+    ]
+  }
+},
+"9": {
+  "page": "TeamManagement",
+  "1": {
+    "HeroHeading": "Manage Your <span class='hero-highlight'>Team</span> Efficiently",
+    "HeroDescription": "Organize, collaborate, and keep your team on track — all in one place.",
+    "HeroButtons": [
+      { "type": "primary", "text": "Manage Team" },
+      { "type": "secondary", "text": "👥 View Members" }
+    ],
+    "HeroImage": "/safesite-4.png",
+    "HeroModalImage": "/team-preview.png"
+  },
+  "2": {
+    "Heading": "Team Management Features",
+    "Items": [
+      {
+        "title": "Team Dashboard",
+        "description": "Get an overview of your team's performance and activities in real-time."
+      },
+      {
+        "title": "Task Assignments",
+        "description": "Assign tasks, set deadlines, and monitor progress effortlessly."
+      },
+      {
+        "title": "Collaboration Tools",
+        "description": "Communicate, share files, and collaborate seamlessly with your team."
+      }
+    ],
+    "Button": { "text": "Start Managing", "type": "primary" },
+    "Video": "/video-1.mp4"
+  },
+  "3": {
+    "Heading": "Advanced Team Tools",
+    "Items": [
+      { "icon": "FaUsers", "title": "Member Profiles", "link": "#" },
+      { "icon": "FaTasks", "title": "Task Tracking", "link": "#" },
+      { "icon": "FaComments", "title": "Team Chat", "link": "#" },
+      { "icon": "FaChartPie", "title": "Performance Reports", "link": "#" },
+      { "icon": "FaCalendarAlt", "title": "Scheduling", "link": "#" },
+      { "icon": "FaShieldAlt", "title": "Access Control", "link": "#" }
+    ]
+  }
+}
+,"10": {
+  "page": "Exports",
+  "1": {
+    "HeroHeading": "Simplify <span class='hero-highlight'>Exports</span> Management",
+    "HeroDescription": "Track, organize, and manage all your export activities efficiently from one dashboard.",
+    "HeroButtons": [
+      { "type": "primary", "text": "Manage Exports" },
+      { "type": "secondary", "text": "📦 View Shipments" }
+    ],
+    "HeroImage": "/safesite-3.png",
+    "HeroModalImage": "/exports-preview.png"
+  },
+  "2": {
+    "Heading": "Export Features",
+    "Items": [
+      {
+        "title": "Shipment Overview",
+        "description": "Get real-time insights into all your export shipments and their statuses."
+      },
+      {
+        "title": "Document Management",
+        "description": "Store and access all export-related documents securely in one place."
+      },
+      {
+        "title": "Compliance Tracking",
+        "description": "Ensure all shipments comply with regulations and customs requirements."
+      }
+    ],
+    "Button": { "text": "Start Exporting", "type": "primary" },
+    "Video": "/video-1.mp4"
+  },
+  "3": {
+    "Heading": "Advanced Export Tools",
+    "Items": [
+      { "icon": "FaTruck", "title": "Shipment Tracking", "link": "#" },
+      { "icon": "FaFileInvoice", "title": "Invoice Management", "link": "#" },
+      { "icon": "FaRegFileAlt", "title": "Export Documents", "link": "#" },
+      { "icon": "FaChartLine", "title": "Export Analytics", "link": "#" },
+      { "icon": "FaCalendarAlt", "title": "Schedule Shipments", "link": "#" },
+      { "icon": "FaShieldAlt", "title": "Access Control", "link": "#" }
+    ]
+  }
+}
+,
+"11": {
+  "page": "Permission",
+  "1": {
+    "HeroHeading": "Manage <span class='hero-highlight'>Permissions</span> Seamlessly",
+    "HeroDescription": "Control user access, assign roles, and monitor permissions across your platform easily.",
+    "HeroButtons": [
+      { "type": "primary", "text": "Manage Permissions" },
+      { "type": "secondary", "text": "👤 View Roles" }
+    ],
+    "HeroImage": "/safesite-4.png",
+    "HeroModalImage": "/permissions-preview.png"
+  },
+  "2": {
+    "Heading": "Permission Features",
+    "Items": [
+      {
+        "title": "Role Assignment",
+        "description": "Easily assign roles to users and manage their access levels."
+      },
+      {
+        "title": "Access Control",
+        "description": "Define who can access what within your system securely."
+      },
+      {
+        "title": "Audit Logs",
+        "description": "Track changes in permissions and user activities for compliance."
+      }
+    ],
+    "Button": { "text": "Set Permissions", "type": "primary" },
+    "Video": "/video-1.mp4"
+  },
+  "3": {
+    "Heading": "Advanced Permission Tools",
+    "Items": [
+      { "icon": "FaUserShield", "title": "User Roles", "link": "#" },
+      { "icon": "FaLock", "title": "Secure Access", "link": "#" },
+      { "icon": "FaKey", "title": "API Keys", "link": "#" },
+      { "icon": "FaClipboardCheck", "title": "Audit Reports", "link": "#" },
+      { "icon": "FaCogs", "title": "Permission Settings", "link": "#" },
+      { "icon": "FaBell", "title": "Alerts & Notifications", "link": "#" }
+    ]
+  }
+},
+ "12": {
+  "page": "TemplateSafetyChecklist",
+  "1": {
+    "HeroIcon": "GiPlantSeed",
+    "HeroHeading": "Agriculture and farming",
+    "HeroDescription": "Find Safesite’s agricultural and farming safety templates and checklists here. Ideal for Safety Managers and Machinery Technicians."
+  },
+  "2": {
+    "title": "Safety Template Library",
+    "languages": ["English", "Hindi", "Spanish", "French"],
+    "categories": ["All", "Covid", "Construction", "Manufacturing", "Office"],
+    "templates": [
+      {
+        "id": 1,
+        "title": "COVID-19 Planning & Safety Checklist",
+        "category": "Covid",
+        "description": "Ensure your workplace meets pandemic safety standards."
+      },
+      {
+        "id": 2,
+        "title": "Construction Site Safety Checklist",
+        "category": "Construction",
+        "description": "Check safety compliance on construction sites."
+      },
+      {
+        "id": 3,
+        "title": "Manufacturing Safety Audit",
+        "category": "Manufacturing",
+        "description": "Evaluate machinery and worker safety procedures."
+      },
+      {
+        "id": 4,
+        "title": "Office Ergonomics Checklist",
+        "category": "Office",
+        "description": "Improve comfort and reduce workplace strain."
+      },
+      {
+        "id": 5,
+        "title": "Post-COVID Workplace Readiness",
+        "category": "Covid",
+        "description": "Assess readiness for returning to physical offices."
+      }
+    ]
+  }
+},
+"13": {
+  "page": "TemplateIncidentReport",
+  "1": {
+    "HeroIcon": "MdReportProblem",
+    "HeroHeading": "Incident Reporting",
+    "HeroDescription": "Access incident reporting templates to document accidents, injuries, and near-miss events effectively. Ideal for Safety Officers, Supervisors, and HR teams."
+  },
+  "2": {
+    "title": "Incident Report Template Library",
+    "languages": ["English", "Hindi", "Spanish", "French"],
+    "categories": ["All", "Accident", "Injury", "Property Damage", "Near Miss"],
+    "templates": [
+      {
+        "id": 1,
+        "title": "Accident Report Form",
+        "category": "Accident",
+        "description": "Record key details about workplace accidents and incidents."
+      },
+      {
+        "id": 2,
+        "title": "Injury Report Checklist",
+        "category": "Injury",
+        "description": "Document employee injuries and follow-up actions."
+      },
+      {
+        "id": 3,
+        "title": "Property Damage Report",
+        "category": "Property Damage",
+        "description": "Log incidents involving damage to company assets or property."
+      },
+      {
+        "id": 4,
+        "title": "Near Miss Reporting Form",
+        "category": "Near Miss",
+        "description": "Capture near-miss events to help prevent future incidents."
+      },
+      {
+        "id": 5,
+        "title": "General Incident Report",
+        "category": "Accident",
+        "description": "Comprehensive template for recording any type of workplace incident."
+      }
+    ]
+  }
+},
+"14": {
+  "page": "TemplateJobHazard",
+  "1": {
+    "HeroIcon": "MdWarningAmber",
+    "HeroHeading": "Job Hazard Analysis",
+    "HeroDescription": "Access job hazard analysis templates to identify, assess, and control workplace hazards. Ideal for Safety Officers, Site Managers, and Supervisors."
+  },
+  "2": {
+    "title": "Job Hazard Analysis Template Library",
+    "languages": ["English", "Hindi", "Spanish", "French"],
+    "categories": ["All", "General", "Construction", "Manufacturing", "Chemical", "Electrical"],
+    "templates": [
+      {
+        "id": 1,
+        "title": "General JHA Template",
+        "category": "General",
+        "description": "Standard template to analyze job tasks and identify potential hazards."
+      },
+      {
+        "id": 2,
+        "title": "Construction JHA Form",
+        "category": "Construction",
+        "description": "Identify and control construction-related hazards and risks."
+      },
+      {
+        "id": 3,
+        "title": "Manufacturing JHA Checklist",
+        "category": "Manufacturing",
+        "description": "Assess hazards associated with manufacturing tasks."
+      },
+      {
+        "id": 4,
+        "title": "Chemical Handling JHA",
+        "category": "Chemical",
+        "description": "Analyze hazards related to handling chemicals and hazardous substances."
+      },
+      {
+        "id": 5,
+        "title": "Electrical Safety JHA",
+        "category": "Electrical",
+        "description": "Document job steps and risks related to electrical work."
+      }
+    ]
+  }
+}
+,
+"15": {
+  "page": "TemplatesEmergencyPlan",
+  "1": {
+    "HeroIcon": "MdEmergency",
+    "HeroHeading": "Emergency Response Plan",
+    "HeroDescription": "Access emergency response plan templates to prepare for and respond to workplace emergencies. Ideal for Safety Officers, Emergency Coordinators, and HR teams."
+  },
+  "2": {
+    "title": "Emergency Response Plan Template Library",
+    "languages": ["English", "Hindi", "Spanish", "French"],
+    "categories": ["All", "Evacuation", "Fire", "Medical", "Chemical Spill", "Natural Disaster"],
+    "templates": [
+      {
+        "id": 1,
+        "title": "Emergency Evacuation Plan",
+        "category": "Evacuation",
+        "description": "Step-by-step plan to safely evacuate employees during an emergency."
+      },
+      {
+        "id": 2,
+        "title": "Fire Emergency Response Plan",
+        "category": "Fire",
+        "description": "Detailed procedure to follow in case of fire incidents."
+      },
+      {
+        "id": 3,
+        "title": "Medical Emergency Action Plan",
+        "category": "Medical",
+        "description": "Guidelines to handle medical emergencies and first aid procedures."
+      },
+      {
+        "id": 4,
+        "title": "Chemical Spill Response Plan",
+        "category": "Chemical Spill",
+        "description": "Instructions to contain and clean up hazardous chemical spills safely."
+      },
+      {
+        "id": 5,
+        "title": "Natural Disaster Preparedness Plan",
+        "category": "Natural Disaster",
+        "description": "Preparedness and response steps for earthquakes, floods, or storms."
+      }
+    ]
+  }
+}
+,
+  "16": {
+    "page": "ContactPage",
+    "id": 1,
+    "HeroHeading": "Get in Touch with Us",
+    "HeroDescription": "We’re here to help you with any inquiries or support you need.",
+    "ContactDetails": [
+      { "type": "phone", "value": "+91 9876543210" },
+      { "type": "email", "value": "info@example.com" },
+      { "type": "address", "value": "123 Street, City, India" }
+    ],
+    "ButtonText": "Contact Now",
+    "Form": {
+      "heading": "Send Us a Message",
+      "fields": [
+        { "name": "name", "label": "Full Name", "type": "text", "placeholder": "Enter your name" },
+        { "name": "email", "label": "Email", "type": "email", "placeholder": "Enter your email" },
+        { "name": "message", "label": "Message", "type": "textarea", "placeholder": "Type your message here" }
+      ],
+      "submitText": "Send Message"
+    }
+  }
+,
+"17": {
+  "page": "industriesConstruction",
+  "1": {
+    "HeroHeading": "Build <span class='hero-highlight'>Safer</span> Construction Sites <br /> with Confidence",
+    "HeroDescription": "Empower your team with real-time tools to keep every job site safe and compliant.",
+   
+    "HeroImage": "/safesite-1.png",
+    "HeroModalImage": "/safesite-4.png"
+  },
+      "2": {
+      "HeroHeading": "Safety Management Challenges <br /> within the Agriculture Industry",
+      "HeroDescription": [
+        {
+          "title": "Paper Recordkeeping",
+          "desc": "Are you working with a dated, binder-based safety and log process? When CalOSHA asks for your maintenance, equipment, and safety logs, do you have a quick way to provide those?"
+        },
+        {
+          "title": "Lack of Preparedness",
+          "desc": "Is it difficult to stay ahead of inspections and audits? Do you feel prepared should equipment break down or an injury occurs?"
+        },
+        {
+          "title": "Immature Safety Program",
+          "desc": "How robust is your safety program? If you have a safety program in place, can you efficiently take ownership of it, or do you use a third-party to train your team?"
+        }
+      ],
+      "HeroImage": "/safesite-2.png",
+      "HeroModalImage": "/safesite-2.png"
+      },
+      "3": {
+  "heading": "Surpass Your Safety Goals",
+  "description": "Do more to keep your employees safe with Safesite, the most recommended safety management solution.",
+  "buttonText": "Sign Up For Free",
+  "stats": [
+    {
+      "icon": "⬆️",
+      "value": "8 hrs",
+      "text": "per week saved after using our platform"
+    },
+    {
+      "icon": "⬇️",
+      "value": "57 %",
+      "text": "Proven reduction in workplace incidents"
+    }
+  ],
+  "badges": [
+    "/badge-1.png",
+    "/badge-2.png",
+    "/badge-3.png",
+    "/badge-4.png",
+    "/badge-5.png"
+  ]
+}
+
+},
+"18": {
+  "page": "industriesEnergy",
+  "1": {
+    "HeroHeading": "Power <span class='hero-highlight'>Up</span> Safety in the Energy Sector <br /> with Smart Tools",
+    "HeroDescription": "Keep your workforce safe and compliant with real-time monitoring and reporting systems.",
+    "HeroImage": "/safesite-3.png",
+    "HeroModalImage": "/safesite-2.png"
+  },
+  "2": {
+    "HeroHeading": "Safety Management Challenges <br /> within the Energy Industry",
+    "HeroDescription": [
+      {
+        "title": "Complex Regulations",
+        "desc": "Energy operations involve strict compliance with multiple standards. Manual tracking can lead to costly oversights."
+      },
+      {
+        "title": "High-Risk Environments",
+        "desc": "Workers face high-voltage systems, confined spaces, and hazardous materials daily — preparedness is crucial."
+      },
+      {
+        "title": "Inefficient Reporting",
+        "desc": "Paper-based systems make it difficult to report incidents or track safety metrics in real-time."
+      }
+    ],
+    "HeroImage": "/safesite-2.png",
+    "HeroModalImage": "/safesite-1.png"
+  },
+  "3": {
+  "heading": "Surpass Your Safety Goals",
+  "description": "Do more to keep your employees safe with Safesite, the most recommended safety management solution.",
+  "buttonText": "Sign Up For Free",
+  "stats": [
+    {
+      "icon": "⬆️",
+      "value": "8 hrs",
+      "text": "per week saved after using our platform"
+    },
+    {
+      "icon": "⬇️",
+      "value": "57 %",
+      "text": "Proven reduction in workplace incidents"
+    }
+  ],
+  "badges": [
+    "/badge-1.png",
+    "/badge-2.png",
+    "/badge-3.png",
+    "/badge-4.png",
+    "/badge-5.png"
+  ]
+}
+
+},
+"19": {
+  "page": "industriesManufacturing",
+  "1": {
+    "HeroHeading": "Create a <span class='hero-highlight'>Safer</span> Manufacturing Floor <br /> with Automation and Insight",
+    "HeroDescription": "Empower teams with real-time alerts, inspections, and compliance management.",
+    "HeroImage": "/safesite-4.png",
+    "HeroModalImage": "/safesite-2.png"
+  },
+  "2": {
+    "HeroHeading": "Safety Management Challenges <br /> within the Manufacturing Industry",
+    "HeroDescription": [
+      {
+        "title": "Workplace Hazards",
+        "desc": "Machinery, chemicals, and moving parts increase injury risks without proper monitoring."
+      },
+      {
+        "title": "Training Gaps",
+        "desc": "Inconsistent or outdated training leads to preventable safety incidents and poor compliance."
+      },
+      {
+        "title": "Manual Tracking",
+        "desc": "Paper-based or spreadsheet tracking can delay reporting, audits, and corrective actions."
+      }
+    ],
+    "HeroImage": "/safesite-1.png",
+    "HeroModalImage": "/safesite-4.png"
+  },
+  "3": {
+  "heading": "Surpass Your Safety Goals",
+  "description": "Do more to keep your employees safe with Safesite, the most recommended safety management solution.",
+  "buttonText": "Sign Up For Free",
+  "stats": [
+    {
+      "icon": "⬆️",
+      "value": "8 hrs",
+      "text": "per week saved after using our platform"
+    },
+    {
+      "icon": "⬇️",
+      "value": "57 %",
+      "text": "Proven reduction in workplace incidents"
+    }
+  ],
+  "badges": [
+    "/badge-1.png",
+    "/badge-2.png",
+    "/badge-3.png",
+    "/badge-4.png",
+    "/badge-5.png"
+  ]
+}
+
+},
+"20": {
+  "page": "ResourceBlog",
+  "1": {
+    "image": "/safesite-2.png",
+    "tag": "SAFETY",
+    "readTime": "11",
+    "title": "A Safety Guide to Electrical Hazards",
+    "description": "How many electrical hazards can you count around you right now? Unless you are off-grid, there’s at least a handful of electrical outlets and electrical tools nearby you right now….",
+    "author": "TEAM SAFESITE",
+    "date": "JULY 29, 2022"
+  },
+  "2": {
+    "posts": [
+      {
+        "image": "/safesite-1.png",
+        "category": "TOOLS & EQUIPMENT",
+        "readTime": "8 min read",
+        "title": "Welding Hazards and Welding Safety—An Overview",
+        "description": "The statistics regarding the dangers of welding are daunting to read. More than 560,000 workers are injured each year from welding accidents, according to the Bureau of Labor Statistics. For..."
+      },
+      {
+        "image": "/safesite-3.png",
+        "category": "CHECKLISTS",
+        "readTime": "8 min read",
+        "title": "Ladder Inspections and Checklists for Ladder Safety",
+        "description": "Falls from ladders are completely preventable, yet they still occur thousands of times throughout the year. Ladder citations were number 3 in the list of top OSHA violations for 2021...."
+      }
+    ]
+  },  "3": {
+      "blogList": [
+        {
+          "id": 1,
+          "category": "SAFETY",
+          "readTime": "8 min read",
+          "title": "Managing Chemical Hazards in the Workplace",
+          "description": "The risk of chemical exposure is a part of daily life, both at home and at work. But even though we encounter chemicals all d...",
+          "image": "/safesite-2.png"
+        },
+        {
+          "id": 2,
+          "category": "SAFETY",
+          "readTime": "9 min read",
+          "title": "Chemical Hazards in the Workplace: An Overview",
+          "description": "How many hazardous chemicals do your teams encounter each work day? The figure is almost certainly higher than you...",
+          "image": "/safesite-4.png"
+        },
+        {
+          "id": 3,
+          "category": "EXCAVATION",
+          "readTime": "7 min read",
+          "title": "Protective Systems for Trench Safety",
+          "description": "With an average of 19 trench fatalities per year, protective systems are essential for trench safety. These fatalities and accident...",
+          "image": "/safesite-3.png"
+        },
+        {
+          "id": 4,
+          "category": "PPE",
+          "readTime": "7 min read",
+          "title": "Hearing Protection in the Workplace",
+          "description": "According to the CDC, tens of millions of workers are potentially exposed every year to damaging noise. Hearing loss is a...",
+          "image": "/safesite-5.png"
+        },
+        {
+          "id": 5,
+          "category": "SAFETY",
+          "readTime": "10 min read",
+          "title": "A Safety Guide to Industrial Robotics Hazards",
+          "description": "Industrial robotics offer automation that can enhance safety, but the robotics themselves can introduce their own hazards...",
+          "image": "/safesite-6.png"
+        },
+        {
+          "id": 6,
+          "category": "PPE",
+          "readTime": "6 min read",
+          "title": "A Guide to Head Protection in the Workplace",
+          "description": "The purpose of head protection is to safeguard workers from falling debris, low-hanging objects, electrical hazards, or ever...",
+          "image": "/safesite-7.png"
+        }
+      ]
+  }
+}
+
+,"21": {
+  "page": "ResourceCasestudies",
+  "1": {
+    "image": "/safesite-4.png",
+    "tag": "CASE STUDY",
+    "readTime": "8",
+    "title": "How a Construction Company Reduced Incidents by 60%",
+    "description": "Discover how a leading construction firm improved site safety and cut down incidents with a proactive safety management approach.",
+    "author": "TEAM SAFESITE",
+    "date": "MARCH 15, 2023"
+  },
+  "2": {
+  "id": "4",
+  "sectionTitle": "Explore Safety Topics",
+  "viewAllLink": {
+    "text": "View All Topics →",
+    "url": "/all-topics"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "image": "/safesite-2.png",
+      "category": "DIVERSITY, EQUITY, AND INCLUSION",
+      "readTime": "7 min read",
+      "title": "A Guide to Sourcing Inclusive PPE for Diverse Teams",
+      "link": "/topic1"
+    },
+    {
+      "id": 2,
+      "image": "/safesite-1.png",
+      "category": "CAREER GROWTH",
+      "readTime": "8 min read",
+      "title": "Everything You Need to Pass the ASP® Safety Certification Exam",
+      "link": "/topic2"
+    },
+    {
+      "id": 3,
+      "image": "/safesite-3.png",
+      "category": "DIVERSITY, EQUITY, AND INCLUSION",
+      "readTime": "6 min read",
+      "title": "4 Free Toolbox Talks for Building Cultural Competency",
+      "link": "/topic3"
+    }
+  ]
+},"3": {
+  "1": {
+    "id": 1,
+    "image": "/safesite-1.png",
+    "quote": "In one day, Safesite uploaded my jobsite inspection and monthly equipment inspection forms.",
+    "name": "Tyler Jones",
+    "title": "DIRECTOR OF SAFETY",
+    "stats": "50%",
+    "description": "Inspection times cut",
+    "hoverImageDefault": "/Nocolor-1.png",
+    "hoverImageColor": "/withcolor-1.png"
+  },
+  "2": {
+    "id": 2,
+    "image": "/safesite-2.png",
+    "quote": "Our team works faster now.",
+    "name": "Anna Smith",
+    "title": "PROJECT MANAGER",
+    "stats": "60%",
+    "description": "Time saved",
+    "hoverImageDefault": "/Nocolor-2.png",
+    "hoverImageColor": "/withcolor-2.png"
+  },
+  "3": {
+    "id": 3,
+    "image": "/safesite-3.png",
+    "quote": "Costs have dropped significantly.",
+    "name": "Mike Brown",
+    "title": "CEO",
+    "stats": "70%",
+    "description": "Costs reduced",
+    "hoverImageDefault": "/Nocolor-3.png",
+    "hoverImageColor": "/withcolor-3.png"
+  }
+}
+
+
+},
+"22": {
+  "page": "ResourcePricing",
+  "1": {
+    "image": "/safesite-2.png",
+    "tag": "Pricing",
+    "readTime": "8",
+    "title": "How a Construction Company Reduced Incidents by 60%",
+    "description": "Discover how a leading construction firm improved site safety and cut down incidents with a proactive safety management approach.",
+    "author": "TEAM SAFESITE",
+    "date": "MARCH 15, 2023"
+  }
+},
+
+  "24": {
+  "page": "Aboutpage",
+  "1": {
+    "heading": "Our Mission: <span class='highlight'>Empower</span> everyone to be a safety champion",
+    "description1": "In 2014, our three founders lost a mutual friend in a workplace accident. The incident sparked an interest in streamlining workplace safety.",
+    "description2": "Today, thousands of companies worldwide trust Safesite, a powerful, easy-to-use safety management solution proven to cut incident rates in half.",
+    "quote": "With Safesite, we were able to achieve an 84% reduction in recordable incident rate and a 100% reduction in lost time incident rate.",
+    "name": "Derek Smith",
+    "title": "JR Cruz New York, NY",
+    "image": "/safesite-5.png",
+    "backgroundImage": "/banner-watermark.svg"
+  },
+  "2": {
+    "heading": "Our Values",
+    "subHeading": "We’re driven by a vision of a safer future",
+    "topImage": "/safesite-6.png",
+    "bottomImage": "/safesite-5.png",
+    "values": [
+      {
+        "number": "01.",
+        "title": "Home Safe",
+        "description": "There is a reason we call out the importance of safety and what we do first in this list: because it’s the most important. Our vision directly supports improving safety for everyone. Solutions that save lives are always prioritized over those that don’t, because there is no more important objective than saving a life."
+      },
+      {
+        "number": "02.",
+        "title": "Tenacity",
+        "description": "We know that change does not develop or solidify in a week. It’s more challenging to do what’s right than what’s easy, but we push hard to get it done anyway. We don’t wait around for the world to change itself; we take on the burden of driving change and we stay the course."
+      },
+      {
+        "number": "03.",
+        "title": "Aim Higher",
+        "description": "We don’t settle for what’s just acceptable. The only option is excellence, and we’re always finding ways to raise the bar, because our customers deserve nothing less. We work to create a better future for ourselves and the customers we serve."
+      },
+      {
+        "number": "04.",
+        "title": "Comradery",
+        "description": "To push change, we need collectively as one group. Everyone contributes. Everyone plays their part. The Safesite culture thrives when we support each other as a team. The greater the foundation we build, the stronger we are together."
+      },
+      {
+        "number": "05.",
+        "title": "Simplicity",
+        "description": "We understand the clear benefits of keeping things simple. At its highest level, technology is at its most powerful when the end experience is simple. We work tirelessly to ensure we’re not complicating safety, but instead making it easier to practice."
+      },
+      {
+        "number": "06.",
+        "title": "Agility",
+        "description": "Considering where the safety industry is heading, developing new products, and adapting quickly are essential. We stay nimble to address industry changes and customer needs with flexibility and speed, so both we and our customers can navigate rapid technological and sociological change."
+      }
+    ]
+  },
+  "3": {
+  "heading": "Come work with us!",
+  "description": "Join our team of passionate people.",
+  "buttonText": "See Open Jobs",
+  "image": "/safesite-2.png"
+}
+
+},
+ "25": {
+  "page": "Aboutpage",
+  "1": {
+    "heading": "Our Mission: <span class='highlight'>Empower</span> everyone to be a safety champion",
+    "description1": "In 2014, our three founders lost a mutual friend in a workplace accident. The incident sparked an interest in streamlining workplace safety.",
+    "description2": "Today, thousands of companies worldwide trust Safesite, a powerful, easy-to-use safety management solution proven to cut incident rates in half.",
+   
+    "image": "/safesite-5.png",
+    "backgroundImage": "/banner-watermark.svg"
+  }
+}
+,
+
+  "26": {
+    "page": "Admin",
+    "id": "26",
+    "AdminlogoClient": "/logo.png",
+    "AdminlogoCompany": "/logo.png",
+    "AdminHeaderTitle": "ASPWPPL",
+    "AdminProjectsEdit": "adminprojects",
+    "adminModules": [
+      {
+        "title": "Projects",
+        "description": "Oversee and manage all ongoing and completed projects.",
+        "path": "/admin/projects",
+        "icon": "fa-project-diagram"
+      },
+      {
+        "title": "Activities",
+        "description": "Manage and organize the activities catalog effectively.",
+        "path": "/admin/activities",
+        "icon": "fa-box-open"
+      },
+      {
+        "title": "News",
+        "description": "Create, update, and publish the latest news and announcements.",
+        "path": "/admin/news",
+        "icon": "fa-newspaper"
+      },
+      {
+        "title": "Hiring",
+        "description": "Streamline and manage recruitment and job postings.",
+        "path": "/admin/hiring",
+        "icon": "fa-users"
+      },
+      {
+        "title": "Submission",
+        "description": "Review and manage user-submitted forms and content.",
+        "path": "/admin/submission",
+        "icon": "fa-file-alt"
+      },
+      {
+        "title": "File Management",
+        "description": "Upload, organize, and access important files.",
+        "path": "/admin/files",
+        "icon": "fa-folder-open"
+      },
+      {
+        "title": "Site Editor",
+        "description": "Easily manage and edit website content and layouts.",
+        "path": "/admin/editor",
+        "icon": "fa-edit"
+      },
+      {
+        "title": "Dev Feedback",
+        "description": "Submit and review feedback for ongoing development projects.",
+        "path": "/admin/feedback",
+        "icon": "fa-comments"
+      }
+    ],
+    "AdminHeaderName": "Project",
+    "AdminProjects": [
+      { "fields": "title", "type": "Text" },
+      { "fields": "id", "type": "Number" },
+      {
+        "fields": "services",
+        "type": "Dropdown",
+        "api": "https://aspwppl-backend.vercel.app/activities",
+        "CallingField": "_id"
+      },
+      { "fields": "client", "type": "Text" },
+      { "fields": "location", "type": "Text" },
+      { "fields": "details", "type": "Text" },
+      { "fields": "state", "type": "Text" },
+      { "fields": "projectsname", "type": "Text" },
+      { "fields": "latitude", "type": "Number" },
+      { "fields": "longitude", "type": "Number" },
+      {
+        "fields": "photo",
+        "type": "Array",
+        "subfields": [{ "fields": "url", "type": "File", "upload": "https://aspwppl-backend.vercel.app/image/image" }]
+      },
+      {
+        "fields": "keypoints",
+        "type": "Array",
+        "subfields": [{ "fields": "points", "type": "Text" }]
+      },
+      {
+        "fields": "stats",
+        "type": "Array",
+        "subfields": [
+          { "fields": "icon", "type": "Text" },
+          { "fields": "points", "type": "Text" },
+          { "fields": "number", "type": "Number" }
+        ]
+      }
+    ],
+    "AdminActivitiesApi": "https://aspwppl-backend.vercel.app/activities",
+    "AdminActivities": [
+      { "fields": "name" },
+      { "fields": "title" },
+      { "fields": "details" },
+      {
+        "fields": "photo",
+        "subfields": [{ "fields": "url" }]
+      },
+      {
+        "fields": "Points",
+        "subfields": [{ "fields": "Point" }]
+      },
+      { "fields": "Header" },
+      { "fields": "ContentPhoto" },
+      { "fields": "Sentence" },
+      { "fields": "Sentence2" },
+      { "fields": "Video" }
+    ],
+    "AdminNews": [
+      { "fields": "id" },
+      { "fields": "photo" },
+      { "fields": "title" },
+      { "fields": "date" },
+      { "fields": "details" },
+      { "fields": "button" },
+      { "fields": "content" }
+    ],
+    "AdminHiring": [
+      { "fields": "position" },
+      { "fields": "Experience" },
+      { "fields": "Openings" },
+      { "fields": "Location" },
+      { "fields": "details" }
+    ],
+    "AdminSubmission": [
+      { "fields": "name" },
+      { "fields": "email" },
+      { "fields": "createdAt" },
+      { "fields": "phone" },
+      { "fields": "message" }
+    ]
+  }
+
+
+
+
+}
+
+
+
+
+
